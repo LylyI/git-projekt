@@ -1,5 +1,4 @@
 <?php
 
 echo "привет,Git "
-echo "привет,branch "
 echo "branch master "
